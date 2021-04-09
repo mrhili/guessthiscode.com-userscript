@@ -55,7 +55,7 @@ refreshUI = function refreshUI(){
 
     hack_html_selector.html("<b>Hack suggestion: </b>"+rightLanguage);
 
-	console.log(hack_html_selector)
+
 
 
 }
